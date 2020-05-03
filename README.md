@@ -1,5 +1,4 @@
-# homework-3
-## Password Generator
+# Javascript: Password Generator
 
 A basic password generator - capable of generating a password of 8 - 128 characters containing:
 - Upper case letters
