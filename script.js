@@ -102,7 +102,7 @@ function getRequirements()
       // If no character types are selected, present user with option to either 
       // try again or exit process
       if(passwordCharacters.length === 0){
-        if(!confirm("You must select at least once character type to include. Try again?")){
+        if(!confirm("You must select at least one character type to include. Try again?")){
           
           // Return false if user opts to exit process
           return false;
